@@ -1,5 +1,7 @@
 
-<div align='center' ><font size='70'> **Yali✨**</font></div>
+<div align='center' >
+  <font size='70'>
+    <b>Yali✨</b></font></div>
 
 Here are some ideas to get you started:
 
