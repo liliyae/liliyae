@@ -14,4 +14,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=liliyae)
 
-- 💎The pages of my best friends：🎀[zzh](http://playerz.plus/) ⛱️[Eric](https://eirc-whyte.github.io/) 🧸[LL](https://naylenv.github.io/) 🔮[Qer](https://github.com/wbxl2000) 🪀[nancheng58](https://blog.nancheng58.cn/)
+- 💎The pages of my best friends：
+- 🎀[zzh](http://playerz.plus/) 
+- ⛱️[Eric](https://eirc-whyte.github.io/) 
+- 🧸[LL](https://naylenv.github.io/) 
+- 🔮[Qer](https://github.com/wbxl2000) 
+- 🪀[nancheng58](https://blog.nancheng58.cn/)
