@@ -7,6 +7,6 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-![PyTorch]https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
 
 ![](https://github-readme-stats.vercel.app/api?username=liliyae)
