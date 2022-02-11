@@ -1,4 +1,4 @@
-### <p align="left">Yali Du</p>
+### <p align="center">Yali Du</p>
 
 Here are some ideas to get you started:
 
