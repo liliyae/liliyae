@@ -1,5 +1,4 @@
-
-<div align='center' ><font size='150'><b>Yali✨</b></font></div>
+### <p align="left">Yali Du</p>
 
 Here are some ideas to get you started:
 
