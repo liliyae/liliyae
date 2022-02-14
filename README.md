@@ -11,7 +11,8 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 
-![](https://github-readme-stats.vercel.app/api?username=liliyae)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=liliyae)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liliyae&layout=compact)
 
 - The pages of my best friends💎：
 - 🎀 [zzh](http://playerz.plus/) 
