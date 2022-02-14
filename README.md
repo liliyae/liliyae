@@ -1,7 +1,7 @@
-### <p align="center">Yali🍈</p>
+### <p align="center">Yali🍐</p>
  
 - 🏢 I’m currently a senior student majoring in CS in SDU and have been admitted into LAMDA as a master in NJU.
-- 🌱 I previously worked in iLearn as a research assistant, in which I mainly investigated on IR. 
+- 🏡 I previously worked in iLearn as a research assistant, in which I mainly investigated on IR. 
 - 🔭 My research interests include Machine Learning and Data Mining.
 - ⚙️ I work using: 	  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=pytorch)
