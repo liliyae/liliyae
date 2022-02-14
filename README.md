@@ -11,9 +11,9 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=liliyae&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=liliyae&show_icons=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liliyae&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liliyae&layout=compact)
 
 - The pages of my best friends💎：
 - 🎀 [zzh](http://playerz.plus/) 
