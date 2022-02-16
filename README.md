@@ -15,10 +15,4 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liliyae&layout=compact)
 
-- The pages of my best friends💎：
-- 🎀 [zzh](http://playerz.plus/) 
-- ⛱️ [Eric](https://eirc-whyte.github.io/) 
-- 🧸 [LL](https://naylenv.github.io/) 
-- 🔮 [Qer](https://github.com/wbxl2000) 
-- 🪀 [nancheng58](https://blog.nancheng58.cn/)
 
