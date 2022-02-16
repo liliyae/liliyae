@@ -10,6 +10,8 @@
  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=plastic&logo=tensorflow)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
+![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=liliyae&show_icons=true&count_private=true)
 
