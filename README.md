@@ -1,6 +1,6 @@
 ### <p align="center">Yali🍐</p>
  
-- 🏢 I’m currently a senior student majoring in CS in SDU and have been admitted into LAMDA as a master in NJU.
+- 🏢 I am a first year graduate student of School of Artificial Intelligence in Nanjing University and a member of LAMDA Group, which is led by professor Zhi-Hua Zhou.
 - 🔭 My research interests include Machine Learning and Data Mining.
 - ⚙️ I work using: 	  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=plastic&logo=pytorch)
